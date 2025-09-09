@@ -1,5 +1,12 @@
 # SpikeMamba: Joint Spiking Neural Network and State Space Model Architecture
 
+
+[![Documentation](https://img.shields.io/badge/Documentation-docs.swarms.world-blue)](https://docs.swarms.world)
+[![Blog](https://img.shields.io/badge/Blog-Medium-green)](https://medium.com/@kyeg)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Research%20Community-purple)](https://discord.gg/EamjgSaEQf)
+[![Twitter](https://img.shields.io/badge/Twitter-@swarms_corp-blue)](https://twitter.com/swarms_corp)
+
+
 ## Abstract
 
 SpikeMamba presents a novel integration of spiking neural networks (SNNs) with the Mamba state space model architecture, investigating the potential for biologically-inspired temporal dynamics in language modeling. This research explores the computational benefits of combining Leaky Integrate-and-Fire (LIF) neurons with selective state space mechanisms, examining energy efficiency, temporal processing capabilities, and neuromorphic computing applications in large language models.
@@ -370,10 +377,6 @@ Join our research community focused on advancing neuromorphic language models an
 | Blog | Latest updates and technical articles | [Medium](https://medium.com/@kyeg) |
 | Discord | Research community and collaboration | [Join Discord](https://discord.gg/EamjgSaEQf) |
 | Twitter | Latest news and announcements | [@swarms_corp](https://twitter.com/swarms_corp) |
-| LinkedIn | Professional network and updates | [The Swarm Corporation](https://www.linkedin.com/company/the-swarm-corporation) |
-| YouTube | Tutorials and demos | [Swarms Channel](https://www.youtube.com/channel/UC9yXyitkbU_WSy7bd_41SqQ) |
-| Events | Community events and workshops | [Sign up here](https://lu.ma/5p2jnc2v) |
-| Onboarding Session | Research collaboration setup | [Book Session](https://cal.com/swarms/swarms-onboarding-session) |
 
 ---
 
